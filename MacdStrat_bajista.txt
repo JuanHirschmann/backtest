@@ -1,0 +1,48 @@
+,0
+Start,2007-10-09 00:00:00
+End,2008-11-19 00:00:00
+Duration,407 days 00:00:00
+Exposure Time [%],26.855123674911663
+Equity Final [$],8846.342872653724
+Equity Peak [$],10000.0
+Return [%],-11.536571273462759
+Buy & Hold Return [%],-46.81173384670293
+Return (Ann.) [%],-10.340709312443252
+Volatility (Ann.) [%],8.091786242936157
+Sharpe Ratio,0.0
+Sortino Ratio,0.0
+Calmar Ratio,0.0
+Max. Drawdown [%],-11.536571273462759
+Avg. Drawdown [%],-11.536571273462759
+Max. Drawdown Duration,345 days 00:00:00
+Avg. Drawdown Duration,345 days 00:00:00
+# Trades,4
+Win Rate [%],25.0
+Best Trade [%],0.16118799810502793
+Worst Trade [%],-4.746765530287278
+Avg. Trade [%],-3.027901146421408
+Max. Trade Duration,67 days 00:00:00
+Avg. Trade Duration,27 days 00:00:00
+Profit Factor,0.013216944481495208
+Expectancy [%],-3.008592218604003
+SQN,-2.6770640376075505
+_strategy,MacdStrat
+_equity_curve,"                  Equity  DrawdownPct DrawdownDuration
+2007-10-09  10000.000000     0.000000              NaT
+2007-10-10  10000.000000     0.000000              NaT
+2007-10-11  10000.000000     0.000000              NaT
+2007-10-12  10000.000000     0.000000              NaT
+2007-10-15  10000.000000     0.000000              NaT
+...                  ...          ...              ...
+2008-11-13   8846.342873     0.115366              NaT
+2008-11-14   8846.342873     0.115366              NaT
+2008-11-17   8846.342873     0.115366              NaT
+2008-11-18   8846.342873     0.115366              NaT
+2008-11-19   8846.342873     0.115366         345 days
+
+[283 rows x 3 columns]"
+_trades,"   Size  EntryBar  ExitBar  EntryPrice   ExitPrice         PnL  ReturnPct  EntryTime   ExitTime Duration
+0    87        44       49  114.777714  109.672579 -444.146763  -0.044478 2007-12-11 2007-12-18   7 days
+1    84        54       59  112.739962  109.356697 -284.194293  -0.030009 2007-12-26 2008-01-03   8 days
+2    89       121      167  103.626015  103.793048   14.865910   0.001612 2008-04-03 2008-06-09  67 days
+3    94       213      229   98.652167   93.969380 -440.181981  -0.047468 2008-08-13 2008-09-05  23 days"

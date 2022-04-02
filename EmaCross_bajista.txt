@@ -1,0 +1,48 @@
+,0
+Start,2007-10-09 00:00:00
+End,2008-11-19 00:00:00
+Duration,407 days 00:00:00
+Exposure Time [%],18.374558303886925
+Equity Final [$],9446.433593751892
+Equity Peak [$],10000.0
+Return [%],-5.535664062481082
+Buy & Hold Return [%],-46.81173384670293
+Return (Ann.) [%],-4.944544230721581
+Volatility (Ann.) [%],6.071709454650769
+Sharpe Ratio,0.0
+Sortino Ratio,0.0
+Calmar Ratio,0.0
+Max. Drawdown [%],-6.1672887551587845
+Avg. Drawdown [%],-6.1672887551587845
+Max. Drawdown Duration,343 days 00:00:00
+Avg. Drawdown Duration,343 days 00:00:00
+# Trades,4
+Win Rate [%],0.0
+Best Trade [%],-0.5341212026650943
+Worst Trade [%],-1.7795574055416319
+Avg. Trade [%],-1.4166789852085082
+Max. Trade Duration,55 days 00:00:00
+Avg. Trade Duration,18 days 00:00:00
+Profit Factor,0.0
+Expectancy [%],-1.4153596155711128
+SQN,-4.699819421620094
+_strategy,EmaCross
+_equity_curve,"                  Equity  DrawdownPct DrawdownDuration
+2007-10-09  10000.000000     0.000000              NaT
+2007-10-10  10000.000000     0.000000              NaT
+2007-10-11  10000.000000     0.000000              NaT
+2007-10-12  10000.000000     0.000000              NaT
+2007-10-15  10000.000000     0.000000              NaT
+...                  ...          ...              ...
+2008-11-13   9446.433594     0.055357              NaT
+2008-11-14   9446.433594     0.055357              NaT
+2008-11-17   9446.433594     0.055357              NaT
+2008-11-18   9446.433594     0.055357              NaT
+2008-11-19   9446.433594     0.055357         343 days
+
+[283 rows x 3 columns]"
+_trades,"   Size  EntryBar  ExitBar  EntryPrice   ExitPrice         PnL  ReturnPct  EntryTime   ExitTime Duration
+0    89        46       48  111.895831  110.055484 -163.790901  -0.016447 2007-12-13 2007-12-17   4 days
+1    87        55       57  113.020606  111.009340 -174.980192  -0.017796 2007-12-27 2007-12-31   4 days
+2    93       124      130  103.801339  102.033537 -164.405605  -0.017031 2008-04-08 2008-04-16   8 days
+3    91       131      169  103.671797  103.118064  -50.389708  -0.005341 2008-04-17 2008-06-11  55 days"

@@ -1,0 +1,48 @@
+,0
+Start,2015-08-17 00:00:00
+End,2016-09-27 00:00:00
+Duration,407 days 00:00:00
+Exposure Time [%],26.24113475177305
+Equity Final [$],10625.75773016692
+Equity Peak [$],10826.160668705807
+Return [%],6.257577301669208
+Buy & Hold Return [%],6.74873591533819
+Return (Ann.) [%],5.573680938843917
+Volatility (Ann.) [%],8.534842731534269
+Sharpe Ratio,0.6530502217985172
+Sortino Ratio,1.0338310645579691
+Calmar Ratio,0.9425057137499718
+Max. Drawdown [%],-5.913683978283557
+Avg. Drawdown [%],-2.067998711254775
+Max. Drawdown Duration,114 days 00:00:00
+Avg. Drawdown Duration,48 days 00:00:00
+# Trades,4
+Win Rate [%],50.0
+Best Trade [%],5.99510567792807
+Worst Trade [%],-3.229565267398249
+Avg. Trade [%],1.5383928139377723
+Max. Trade Duration,42 days 00:00:00
+Avg. Trade Duration,26 days 00:00:00
+Profit Factor,2.4850238831767655
+Expectancy [%],1.61268083904898
+SQN,0.7075666117111751
+_strategy,RsiCross
+_equity_curve,"                  Equity  DrawdownPct DrawdownDuration
+2015-08-17  10000.000000     0.000000              NaT
+2015-08-18  10000.000000     0.000000              NaT
+2015-08-19  10000.000000     0.000000              NaT
+2015-08-20  10000.000000     0.000000              NaT
+2015-08-21  10000.000000     0.000000              NaT
+...                  ...          ...              ...
+2016-09-21  10746.328663     0.007374              NaT
+2016-09-22  10804.300617     0.002019              NaT
+2016-09-23  10732.418369     0.008659              NaT
+2016-09-26  10635.611652     0.017601              NaT
+2016-09-27  10625.757730     0.018511          69 days
+
+[282 rows x 3 columns]"
+_trades,"   Size  EntryBar  ExitBar  EntryPrice   ExitPrice         PnL  ReturnPct  EntryTime   ExitTime Duration
+0    68       102      112  145.295155  140.602753 -319.083327  -0.032296 2016-01-12 2016-01-27  15 days
+1    68       112      141  141.305767  149.777197  576.057244   0.059951 2016-01-27 2016-03-09  42 days
+2    65       219      241  156.024592  163.512944  486.742902   0.047995 2016-06-29 2016-08-01  33 days
+3    65       271      281  162.862558  161.047803 -117.959089  -0.011143 2016-09-13 2016-09-27  14 days"

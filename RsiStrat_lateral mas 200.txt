@@ -1,0 +1,47 @@
+,0
+Start,2015-01-29 00:00:00
+End,2016-09-27 00:00:00
+Duration,607 days 00:00:00
+Exposure Time [%],15.238095238095239
+Equity Final [$],10401.873817980137
+Equity Peak [$],10734.127610148671
+Return [%],4.018738179801367
+Buy & Hold Return [%],9.037996445565884
+Return (Ann.) [%],2.3922175291984926
+Volatility (Ann.) [%],3.731993833345844
+Sharpe Ratio,0.641002540739409
+Sortino Ratio,1.0039255077168965
+Calmar Ratio,0.7116592063099972
+Max. Drawdown [%],-3.361465021442367
+Avg. Drawdown [%],-1.4174774390367184
+Max. Drawdown Duration,43 days 00:00:00
+Avg. Drawdown Duration,19 days 00:00:00
+# Trades,2
+Win Rate [%],50.0
+Best Trade [%],4.112457097797906
+Worst Trade [%],-0.032618447300147846
+Avg. Trade [%],2.018869446218896
+Max. Trade Duration,76 days 00:00:00
+Avg. Trade Duration,46 days 00:00:00
+Profit Factor,126.07764741086451
+Expectancy [%],2.0399193252488788
+SQN,0.9835384289644176
+_strategy,RsiStrat
+_equity_curve,"                  Equity  DrawdownPct DrawdownDuration
+Date                                                  
+2015-01-29  10000.000000     0.000000              NaT
+2015-01-30  10000.000000     0.000000              NaT
+2015-02-02  10000.000000     0.000000              NaT
+2015-02-03  10000.000000     0.000000              NaT
+2015-02-04  10000.000000     0.000000              NaT
+...                  ...          ...              ...
+2016-09-21  10520.593704     0.019893              NaT
+2016-09-22  10577.670853     0.014576              NaT
+2016-09-23  10506.895462     0.021169              NaT
+2016-09-26  10411.579056     0.030049              NaT
+2016-09-27  10401.873818     0.030953          43 days
+
+[420 rows x 3 columns]"
+_trades,"   Size  EntryBar  ExitBar  EntryPrice   ExitPrice         PnL  ReturnPct  EntryTime   ExitTime Duration
+0    64       356      408  153.967000  160.298827  405.236917   0.041125 2016-06-28 2016-09-12  76 days
+1    64       408      419  161.100321  161.047773   -3.363099  -0.000326 2016-09-12 2016-09-27  15 days"

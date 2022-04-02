@@ -1,0 +1,49 @@
+,0
+Start,2008-06-16 00:00:00
+End,2010-02-11 00:00:00
+Duration,605 days 00:00:00
+Exposure Time [%],38.66348448687351
+Equity Final [$],11827.953935954172
+Equity Peak [$],12924.694862722785
+Return [%],18.279539359541722
+Buy & Hold Return [%],-17.244357332672465
+Return (Ann.) [%],10.624209387286076
+Volatility (Ann.) [%],11.663143286159059
+Sharpe Ratio,0.9109216209230738
+Sortino Ratio,1.4661600036529228
+Calmar Ratio,1.1976195719784513
+Max. Drawdown [%],-8.87110534586123
+Avg. Drawdown [%],-1.8003919570631215
+Max. Drawdown Duration,23 days 00:00:00
+Avg. Drawdown Duration,8 days 00:00:00
+# Trades,4
+Win Rate [%],50.0
+Best Trade [%],21.500659750246975
+Worst Trade [%],-1.9604057235370176
+Avg. Trade [%],4.286348869209022
+Max. Trade Duration,223 days 00:00:00
+Avg. Trade Duration,59 days 00:00:00
+Profit Factor,7.977960509729342
+Expectancy [%],4.7090108521143454
+SQN,0.8071925918842724
+_strategy,RsiStrat
+_equity_curve,"                  Equity  DrawdownPct DrawdownDuration
+Date                                                  
+2008-06-16  10000.000000     0.000000              NaT
+2008-06-17  10000.000000     0.000000              NaT
+2008-06-18  10000.000000     0.000000              NaT
+2008-06-19  10000.000000     0.000000              NaT
+2008-06-20  10000.000000     0.000000              NaT
+...                  ...          ...              ...
+2010-02-05  11863.368230     0.082116              NaT
+2010-02-08  11778.131566     0.088711              NaT
+2010-02-09  11866.417035     0.081880              NaT
+2010-02-10  11843.334500     0.083666              NaT
+2010-02-11  11827.953936     0.084856          23 days
+
+[419 rows x 3 columns]"
+_trades,"   Size  EntryBar  ExitBar  EntryPrice  ExitPrice          PnL  ReturnPct  EntryTime   ExitTime Duration
+0   142       257      410   70.382317  85.514980  2148.838078   0.215007 2009-06-23 2010-02-01 223 days
+1   141       410      414   85.942554  84.257732  -237.560009  -0.019604 2010-02-01 2010-02-05   4 days
+2   140       414      416   84.679020  84.708443     4.119153   0.000347 2010-02-05 2010-02-09   4 days
+3   139       416      418   85.131985  84.502897   -87.443286  -0.007390 2010-02-09 2010-02-11   2 days"

@@ -1,0 +1,46 @@
+,0
+Start,2009-01-02 00:00:00
+End,2010-02-11 00:00:00
+Duration,405 days 00:00:00
+Exposure Time [%],77.14285714285715
+Equity Final [$],12974.09591134827
+Equity Peak [$],13799.12902224082
+Return [%],29.740959113482695
+Buy & Hold Return [%],19.011644114568867
+Return (Ann.) [%],26.40649626626532
+Volatility (Ann.) [%],22.359378995255728
+Sharpe Ratio,1.181003116046663
+Sortino Ratio,2.224272112450757
+Calmar Ratio,3.8116810323171197
+Max. Drawdown [%],-6.92778226781815
+Avg. Drawdown [%],-2.194961536724721
+Max. Drawdown Duration,93 days 00:00:00
+Avg. Drawdown Duration,13 days 00:00:00
+# Trades,2
+Win Rate [%],50.0
+Best Trade [%],33.23672635339858
+Worst Trade [%],-2.48759294812797
+Avg. Trade [%],13.983480796260505
+Max. Trade Duration,311 days 00:00:00
+Avg. Trade Duration,156 days 00:00:00
+Profit Factor,13.360998783346275
+Expectancy [%],15.374566702635306
+SQN,0.857522872607715
+_strategy,EmaCross
+_equity_curve,"                  Equity  DrawdownPct DrawdownDuration
+2009-01-02  10000.000000     0.000000              NaT
+2009-01-05  10000.000000     0.000000              NaT
+2009-01-06  10000.000000     0.000000              NaT
+2009-01-07   9807.715321     0.019228              NaT
+2009-01-08   9752.927499     0.024707              NaT
+...                  ...          ...              ...
+2010-02-05  12974.095911     0.059789              NaT
+2010-02-08  12974.095911     0.059789              NaT
+2010-02-09  12974.095911     0.059789              NaT
+2010-02-10  12974.095911     0.059789              NaT
+2010-02-11  12974.095911     0.059789          23 days
+
+[280 rows x 3 columns]"
+_trades,"   Size  EntryBar  ExitBar  EntryPrice  ExitPrice          PnL  ReturnPct  EntryTime   ExitTime Duration
+0   139         3        4   71.454617  69.677117  -247.072501  -0.024876 2009-01-07 2009-01-08   1 days
+1   151        58      271   64.182738  85.514980  3221.168413   0.332367 2009-03-27 2010-02-01 311 days"
